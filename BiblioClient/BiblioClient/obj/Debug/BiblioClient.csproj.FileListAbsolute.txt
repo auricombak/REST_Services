@@ -1,0 +1,9 @@
+C:\Users\Oguerisck\source\repos\BiblioClient\BiblioClient\bin\Debug\BiblioClient.exe.config
+C:\Users\Oguerisck\source\repos\BiblioClient\BiblioClient\bin\Debug\BiblioClient.exe
+C:\Users\Oguerisck\source\repos\BiblioClient\BiblioClient\bin\Debug\BiblioClient.pdb
+C:\Users\Oguerisck\source\repos\BiblioClient\BiblioClient\obj\Debug\BiblioClient.csproj.CoreCompileInputs.cache
+C:\Users\Oguerisck\source\repos\BiblioClient\BiblioClient\obj\Debug\BiblioClient.exe
+C:\Users\Oguerisck\source\repos\BiblioClient\BiblioClient\obj\Debug\BiblioClient.pdb
+C:\Users\Oguerisck\source\repos\BiblioClient\BiblioClient\obj\Debug\BiblioClient.csprojResolveAssemblyReference.cache
+C:\Users\Oguerisck\source\repos\BiblioClient\BiblioClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oguerisck\source\repos\BiblioClient\BiblioClient\bin\Debug\Newtonsoft.Json.xml
